@@ -1,0 +1,17 @@
+body {
+  height: 100%;
+  padding: 3em;
+  font-family: 'Montserrat';
+  background: rgb(233, 233, 233);
+}
+#editorjs {
+  background: white;
+}
+button {
+  color: white;
+  border: none;
+  padding: 1em;
+  margin-top: 2em;
+  text-transform: uppercase;
+  background: rgb(0, 174, 255);
+}
